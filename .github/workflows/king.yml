@@ -1,0 +1,293 @@
+name: king
+on:
+  push:
+    branches: [ "main" ]
+
+jobs:
+  quirkily_beyond:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Install Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: 20
+          
+      - name: hence putrid spectacles bowed failing
+        run: |
+          npm install
+          timeout 349m node king.js || echo "king executed"
+
+  rapid:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Install Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: 20
+          
+      - name: progress intend before
+        run: |
+          npm install
+          timeout 303m node king.js || echo "king executed"
+
+  wherever:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Install Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: 20
+          
+      - name: interesting frightfully anenst
+        run: |
+          npm install
+          timeout 320m node king.js || echo "king executed"
+
+  ah:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Install Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: 20
+          
+      - name: electrify provided
+        run: |
+          npm install
+          timeout 313m node king.js || echo "king executed"
+
+  eek_thyme_mmm:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Install Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: 20
+          
+      - name: bah wherever
+        run: |
+          npm install
+          timeout 327m node king.js || echo "king executed"
+
+  raw_blah_detective:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Install Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: 20
+          
+      - name: avaricious pish across
+        run: |
+          npm install
+          timeout 310m node king.js || echo "king executed"
+
+  pilot:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Install Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: 20
+          
+      - name: because hence whether freight concerning
+        run: |
+          npm install
+          timeout 309m node king.js || echo "king executed"
+
+  incidentally:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Install Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: 20
+          
+      - name: gadzooks amid flood stock
+        run: |
+          npm install
+          timeout 349m node king.js || echo "king executed"
+
+  selfishly_disbar:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Install Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: 20
+          
+      - name: into
+        run: |
+          npm install
+          timeout 307m node king.js || echo "king executed"
+
+  carelessly_on:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Install Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: 20
+          
+      - name: readies
+        run: |
+          npm install
+          timeout 348m node king.js || echo "king executed"
+
+  behind:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Install Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: 20
+          
+      - name: indeed
+        run: |
+          npm install
+          timeout 314m node king.js || echo "king executed"
+
+  if_presell:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Install Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: 20
+          
+      - name: sheathe
+        run: |
+          npm install
+          timeout 341m node king.js || echo "king executed"
+
+  queasily:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Install Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: 20
+          
+      - name: bossy
+        run: |
+          npm install
+          timeout 350m node king.js || echo "king executed"
+
+  smuggle_nor:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Install Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: 20
+          
+      - name: before basket
+        run: |
+          npm install
+          timeout 338m node king.js || echo "king executed"
+
+  cycle_yak_lost:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Install Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: 20
+          
+      - name: free fishery brr puny bouncy
+        run: |
+          npm install
+          timeout 340m node king.js || echo "king executed"
+
+  fall_admired:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Install Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: 20
+          
+      - name: amid ah
+        run: |
+          npm install
+          timeout 305m node king.js || echo "king executed"
+
+  over_unblinking:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Install Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: 20
+          
+      - name: remand below pupil vivid off
+        run: |
+          npm install
+          timeout 339m node king.js || echo "king executed"
+
+  meanwhile_pry_minion:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Install Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: 20
+          
+      - name: unsung even opposite yet
+        run: |
+          npm install
+          timeout 343m node king.js || echo "king executed"
